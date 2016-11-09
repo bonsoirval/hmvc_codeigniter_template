@@ -14,3 +14,9 @@ $this->template->load('template_name', 'body_view');
 Now it is called as 
 $this->template->load('module_name','template_name', 'body_view');
 where module_name = the name of the current module.
+
+Installation
+Follow these simple steps
+ 1. Follow the tutorial here: https://code.tutsplus.com/tutorials/an-introduction-to-views-templating-in-codeigniter--net-25648
+ 2. Use the 'Template.php' provided here.
+ You are good to go.
